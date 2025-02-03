@@ -1,4 +1,4 @@
-# Wild Plus Kernel for Android GKI 2.0 Devices
+# Wild Plus Kernels for Android GKI 2.0 Devices and Others
 
 ## Your warranty is no longer valid!
 
@@ -14,10 +14,30 @@ By flashing this kernel, **YOU** are choosing to make these modifications. If so
 
 ---
 
+# Kernels:
+ 
+[GKI](https://github.com/WildPlusKernel/GKI_KernelSU_SUSFS)  
+[Sultan](https://github.com/WildPlusKernel/Sultan_KernelSU_SUSFS)  
+[OnePlus](https://github.com/WildPlusKernel/OnePlus_KernelSU_SUSFS)  
+[Legacy Pixels](https://github.com/WildPlusKernel/Pixel_KernelSU_SUSFS)  
+
+---
+
+# Other Links:
+
+[Kernel Patches](https://github.com/WildPlusKernel/kernel_patches)  
+[Old Build Scripts](https://github.com/TheWildJames/kernel_build_scripts)  
+[Kernel FLasher](https://github.com/capntrips/KernelFlasher/releases)  
+
+---
+
 # Installation instructions: 
 
 Follow the steps for GKI:  
 [Installation](https://kernelsu.org/guide/installation.html)
+
+To get boot.img format:  
+[Get MyKernel Format](https://github.com/TheWildJames/Get_My_Kernel_Format)
 
 ---
 
@@ -34,6 +54,7 @@ Follow the steps for GKI:
 - **KernelSU-Next**: Developed by [rifsxd](https://github.com/rifsxd/KernelSU-Next).
 - **SUSFS**: Developed by [simonpunk](https://gitlab.com/simonpunk/susfs4ksu.git).
 - **SUSFS Module**: Developed by [sidex15](https://github.com/sidex15).
+- **Sultan Kernels**: Developed by [kerneltoast](https://github.com/kerneltoast).
 
 Special thanks to the open-source community for their contributions!
 
@@ -55,8 +76,7 @@ Flashing this kernel will void your warranty, and there is always a risk of bric
 
 # To-DO
 
-- [X] Build AnyKernel3 zips
-- [X] Make GitHub Actions
+- [X] Get Stoned & Build kernels!
 
 ---
 
